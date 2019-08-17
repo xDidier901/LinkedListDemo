@@ -1,0 +1,11 @@
+/Users/didiervaldez/Desktop/LinkedList/LinkedListDemo/bin/Debug/netcoreapp2.2/LinkedListDemo.deps.json
+/Users/didiervaldez/Desktop/LinkedList/LinkedListDemo/bin/Debug/netcoreapp2.2/LinkedListDemo.runtimeconfig.json
+/Users/didiervaldez/Desktop/LinkedList/LinkedListDemo/bin/Debug/netcoreapp2.2/LinkedListDemo.runtimeconfig.dev.json
+/Users/didiervaldez/Desktop/LinkedList/LinkedListDemo/bin/Debug/netcoreapp2.2/LinkedListDemo.dll
+/Users/didiervaldez/Desktop/LinkedList/LinkedListDemo/bin/Debug/netcoreapp2.2/LinkedListDemo.pdb
+/Users/didiervaldez/Desktop/LinkedList/LinkedListDemo/obj/Debug/netcoreapp2.2/LinkedListDemo.csprojAssemblyReference.cache
+/Users/didiervaldez/Desktop/LinkedList/LinkedListDemo/obj/Debug/netcoreapp2.2/LinkedListDemo.csproj.CoreCompileInputs.cache
+/Users/didiervaldez/Desktop/LinkedList/LinkedListDemo/obj/Debug/netcoreapp2.2/LinkedListDemo.AssemblyInfoInputs.cache
+/Users/didiervaldez/Desktop/LinkedList/LinkedListDemo/obj/Debug/netcoreapp2.2/LinkedListDemo.AssemblyInfo.cs
+/Users/didiervaldez/Desktop/LinkedList/LinkedListDemo/obj/Debug/netcoreapp2.2/LinkedListDemo.dll
+/Users/didiervaldez/Desktop/LinkedList/LinkedListDemo/obj/Debug/netcoreapp2.2/LinkedListDemo.pdb
